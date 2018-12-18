@@ -1,0 +1,12 @@
+{
+  "main.js": "/static/js/main.chunk.js",
+  "main.js.map": "/static/js/main.chunk.js.map",
+  "static/js/0.chunk.js": "/static/js/0.chunk.js",
+  "static/js/0.chunk.js.map": "/static/js/0.chunk.js.map",
+  "runtime~main.js": "/static/js/bundle.js",
+  "runtime~main.js.map": "/static/js/bundle.js.map",
+  "static/media/bg.png": "/static/media/bg.4f376bb3.png",
+  "static/media/bg_login.jpg": "/static/media/bg_login.44e7909b.jpg",
+  "static/media/book1.jpg": "/static/media/book1.cb497173.jpg",
+  "index.html": "/index.html"
+}
